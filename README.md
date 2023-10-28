@@ -15,4 +15,4 @@ Constantly Learning!!!
 * 💬 Ask me about MEAN/ MERN stacks, Chess and Music :D
 - 📫 mail me to: nicolaspugacardozo@gmail.com 
 - 😄 Pronouns: He / Él
-- ⚡ Fun fact: Unlike JavaScript, I don't c
+- ⚡ Fun fact: [object Object]
